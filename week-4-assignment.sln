@@ -14,6 +14,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkBilgisayarJwtWebApi", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryCacheAssignment", "InMemoryCacheAssignment\InMemoryCacheAssignment.csproj", "{24EC21A9-B7D9-4220-8767-EEB8252C40F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisDemo", "RedisDemo\RedisDemo.csproj", "{F054CF6C-DA50-419E-94A5-E09CF2621C93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,6 +30,10 @@ Global
 		{24EC21A9-B7D9-4220-8767-EEB8252C40F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24EC21A9-B7D9-4220-8767-EEB8252C40F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24EC21A9-B7D9-4220-8767-EEB8252C40F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F054CF6C-DA50-419E-94A5-E09CF2621C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F054CF6C-DA50-419E-94A5-E09CF2621C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F054CF6C-DA50-419E-94A5-E09CF2621C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F054CF6C-DA50-419E-94A5-E09CF2621C93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
